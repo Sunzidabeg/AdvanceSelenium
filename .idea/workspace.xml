@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09673d63-0936-4002-bae5-3a4790796dae" name="Default Changelist" comment="" />
+    <list default="true" id="09673d63-0936-4002-bae5-3a4790796dae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NGTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paralleltest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gtest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/MultiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/withgroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/withoutgroups.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/RightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/RightClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/ouralertsss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/ouralertsss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Base/RightClick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Base/RightClick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Base/ouralertsss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Base/ouralertsss.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1X0AJITYsE2gabPv2NQpaY2c8fM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -46,44 +65,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ouralertsss.test">
-    <configuration name="DoubleClick.test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml">
+    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/NGTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectJan27" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Base" />
-      <option name="MAIN_CLASS_NAME" value="Base.DoubleClick" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/NGTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HoverOver.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectJan27" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Base" />
-      <option name="MAIN_CLASS_NAME" value="Base.HoverOver" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Paralleltest.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/gtest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectJan27" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/gtest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightClick" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/withoutgroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectJan27" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/withoutgroups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectJan27" />
       <extension name="coverage">
         <pattern>
@@ -92,7 +125,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Base" />
-      <option name="MAIN_CLASS_NAME" value="Base.RightClick" />
+      <option name="MAIN_CLASS_NAME" value="Base.MultiTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -100,49 +133,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAlertte.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ProjectJan27" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Base" />
-      <option name="MAIN_CLASS_NAME" value="Base.TestAlertte" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ouralertsss.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ProjectJan27" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Base" />
-      <option name="MAIN_CLASS_NAME" value="Base.ouralertsss" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/gtest.xml" />
+      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/NGTest.xml" />
+      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml" />
+      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/withoutgroups.xml" />
+      <item itemvalue="TestNG.MultiTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ouralertsss.test" />
-        <item itemvalue="TestNG.TestAlertte.test" />
-        <item itemvalue="TestNG.DoubleClick.test" />
-        <item itemvalue="TestNG.RightClick" />
-        <item itemvalue="TestNG.HoverOver.test" />
+        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml" />
+        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/gtest.xml" />
+        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/NGTest.xml" />
+        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/withoutgroups.xml" />
+        <item itemvalue="TestNG.MultiTest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,5 +162,18 @@
       <updated>1580172564936</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
