@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="methods">
+  <test thread-count="3" name="right(failed)" parallel="methods">
+    <classes>
+      <class name="Base.RightClick">
+        <methods>
+          <include name="test2"/>
+          <include name="test4"/>
+        </methods>
+      </class> <!-- Base.RightClick -->
+    </classes>
+  </test> <!-- right(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

@@ -16,6 +16,10 @@ public class iframe {
 
         driver.get("http://demo.guru99.com/test/guru99home/");
         driver.manage().window().maximize();
-        WebElement a = driver.findElement(By.xpath("//button[text()='Double-Click Me To See Alert']"));
+
+
+        int size = driver.findElements(By.tagName("iframe")).size();
+        System.out.println(size);
+
     }
     }

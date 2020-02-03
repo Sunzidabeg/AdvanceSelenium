@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09673d63-0936-4002-bae5-3a4790796dae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NGTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paralleltest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gtest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Base/MultiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/withgroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/withoutgroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UsingContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reverseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/String_Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/UsingContact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverseName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/priority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Base/RightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/RightClick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Base/ouralertsss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/ouralertsss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Base/RightClick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Base/RightClick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Base/ouralertsss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Base/ouralertsss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paralleltest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Paralleltest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/iframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/withoutgroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/withoutgroups.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,58 +68,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml">
-    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/NGTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.iframe">
+    <configuration name="String_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Example" />
       <module name="ProjectJan27" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/NGTest.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UsingContact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsingContact" />
       <module name="ProjectJan27" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Paralleltest.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter" />
-        <listener class="org.testng.reporters.FailedReporter" />
-      </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/gtest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="reverseName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseName" />
       <module name="ProjectJan27" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/gtest.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Sunzida/IdeaProjects/ProjectJan27/withoutgroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ProjectJan27" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/withoutgroups.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="iframe" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectJan27" />
       <extension name="coverage">
         <pattern>
@@ -125,7 +99,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Base" />
-      <option name="MAIN_CLASS_NAME" value="Base.MultiTest" />
+      <option name="MAIN_CLASS_NAME" value="Base.iframe" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="priority" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectJan27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base" />
+      <option name="MAIN_CLASS_NAME" value="Base.priority" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/gtest.xml" />
-      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/NGTest.xml" />
-      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml" />
-      <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/withoutgroups.xml" />
-      <item itemvalue="TestNG.MultiTest" />
+      <item itemvalue="TestNG.priority" />
+      <item itemvalue="Application.String_Example" />
+      <item itemvalue="Application.UsingContact" />
+      <item itemvalue="Application.reverseName" />
+      <item itemvalue="TestNG.iframe" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/Paralleltest.xml" />
-        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/gtest.xml" />
-        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/NGTest.xml" />
-        <item itemvalue="TestNG.C:/Users/Sunzida/IdeaProjects/ProjectJan27/withoutgroups.xml" />
-        <item itemvalue="TestNG.MultiTest" />
+        <item itemvalue="TestNG.iframe" />
+        <item itemvalue="Application.reverseName" />
+        <item itemvalue="Application.UsingContact" />
+        <item itemvalue="Application.String_Example" />
+        <item itemvalue="TestNG.priority" />
       </list>
     </recent_temporary>
   </component>

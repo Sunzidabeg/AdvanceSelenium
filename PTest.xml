@@ -2,11 +2,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="TestSuite" thread-count="3" parallel="methods" >
 
-    <test name="right">
+    <test name="priority">
         <classes>
-            <class name="Base.RightClick">
+            <class name="Base.priority">
             </class>
         </classes>
 
-        </test>
+    </test>
 </suite>
